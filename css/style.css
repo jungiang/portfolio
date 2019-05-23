@@ -517,6 +517,7 @@ label {
 /* ab me */
 .about-me img {
 	width: 100%;
+	max-width: 470px;
 }
 .about-me-info h2 {
 	font-size: 26px;
@@ -1873,3 +1874,11 @@ width: 100%;}
 	color: #565656;
 }
 
+.skills-container>.skill-icon {
+	max-width: 200px;
+}
+
+.module-border-wrap {
+	background: linear-gradient(to left, #bdbcbd, #485676);
+	padding: 4px;
+}
