@@ -1878,6 +1878,10 @@ width: 100%;}
 	max-width: 200px;
 }
 
+.skill-icon>h5 {
+	text-align: center;
+}
+
 .module-border-wrap {
 	background: linear-gradient(to left, #bdbcbd, #485676);
 	padding: 4px;
