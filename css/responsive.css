@@ -1,7 +1,7 @@
 /* Normal desktop :1200px. */
 @media (min-width: 1200px) and (max-width: 1500px) {
 .slider-height {
-	min-height: 750px;
+	min-height: 500px;
 }
 .page-title-area {
 	padding-top: 260px;
@@ -10,16 +10,14 @@
 
 
 
-
-
 }
 
 
 /* Normal desktop :992px. */
 @media (min-width: 992px) and (max-width: 1200px) {
-.slider-height {
+/* .slider-height {
 	min-height: 600px;
-}
+} */
 .silder-content h1 {
 	padding: 0 50px;
 }
@@ -106,9 +104,9 @@
 
 
 /* slider */
-.slider-height {
+/* .slider-height {
 	min-height: 500px;
-}
+} */
 .silder-content {
 	padding-top: 0px;
 }
